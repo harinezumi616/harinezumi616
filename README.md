@@ -1,5 +1,4 @@
 ### Skill & Tools
-<a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"/> 
 <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/latex.png" alt="cplusplus"/> 
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_tex_icon_130429.png" alt="cplusplus" height="50"/> 
