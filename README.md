@@ -1,6 +1,9 @@
 ### Skill & Tools
 <a target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="cplusplus"/> 
+<a target="_blank"> <img src="https://img.icons8.com/color/48/000000/latex.png" alt="cplusplus"/> 
+
+  <a href="https://icons8.com/icon/WBooq2dInw0x/latex">LaTeX icon by Icons8</a>
   
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinezumi616&layout=compact&theme=merko" />
