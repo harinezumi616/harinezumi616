@@ -5,7 +5,7 @@
 
   <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a><br>
   <a href="https://icons8.com/icon/WBooq2dInw0x/latex">LaTeX icon by Icons8</a>
-  <a href="https://icons8.com/icon/WBooq2dInw0x/latex">python icon by Icons8</a>
+  <a href="https://icons8.com/icons/set/python">python icon by Icons8</a>
   
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harinezumi616&layout=compact&theme=merko" />
