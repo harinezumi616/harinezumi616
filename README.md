@@ -4,7 +4,7 @@
 <a target="_blank"> <img width="48" height="48" src="https://img.icons8.com/color/48/python--v1.png" alt="python--v1"/>
 
   <a href="https://icons8.com/icon/40669/c++">C++ icon by Icons8</a><br>
-  <a href="https://icons8.com/icon/WBooq2dInw0x/latex">LaTeX icon by Icons8</a>
+  <a href="https://icons8.com/icon/WBooq2dInw0x/latex">LaTeX icon by Icons8</a><br>
   <a href="https://icons8.com/icons/set/python">python icon by Icons8</a>
   
 <p align="left"> 
