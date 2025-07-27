@@ -1,4 +1,3 @@
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/e4717c9f-f33c-48a7-971c-e732b3d06806" />### Skill & Tools
 <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> 
 <a target="_blank"> <img src="https://img.icons8.com/color/48/000000/latex.png"/> 
 <a target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_light_tex_icon_130429.png" height="50"/> 
